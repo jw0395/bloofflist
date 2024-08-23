@@ -8,5 +8,11 @@
     "percentToQualify": "71",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "DarkTDD",
+            "link": "https://youtu.be/-LIM-8Mgcv4",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
