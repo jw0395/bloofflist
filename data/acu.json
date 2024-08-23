@@ -1,6 +1,6 @@
 {
     "id": 78073972,
-    "name": "Acu",
+    "name": "acu",
     "author": "blooff",
     "creators": [],
     "verifier": "blooff",
@@ -8,5 +8,11 @@
     "percentToQualify": "86",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "DarkTDD",
+            "link": "https://youtu.be/7AueAOpaiYI",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
