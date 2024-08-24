@@ -1,0 +1,18 @@
+{
+    "id": 78162723,
+    "name": "salt and vinegar",
+    "author": "blooff",
+    "creators": ["blooff", "WOOGI1411"],
+    "verifier": "blooff",
+    "verification": "https://youtu.be/958cXm0tapQ?si=Dn25LlAgIV3-pJrS",
+    "percentToQualify": "85",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "DarkTDD",
+            "link": "https://youtu.be/BKf7ihcaE8o",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
