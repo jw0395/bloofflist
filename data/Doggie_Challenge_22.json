@@ -8,5 +8,11 @@
     "percentToQualify": "65",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "blooff",
+            "link": "https://youtu.be/oZIaURHBUEE?si=raLilO1-zVAuIm-b",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
