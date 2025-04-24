@@ -8,5 +8,11 @@
     "percentToQualify": "85",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "noxvera",
+            "link": "https://youtu.be/NiGTxugKSUk?si=iwOwrUyjVObAtzvk",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
