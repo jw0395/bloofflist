@@ -19,6 +19,12 @@
             "link": "https://youtu.be/kHsKhch3BX8",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sunnyfb",
+            "link": "https://www.youtube.com/watch?v=BE6y8odYOgM&feature=youtu.be",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
