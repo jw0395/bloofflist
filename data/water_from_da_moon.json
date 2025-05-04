@@ -8,5 +8,11 @@
     "percentToQualify": "61",
     "password": "Free to Copy",
     "records": [
+        {
+            "user": "Fu7ureMK",
+            "link": "https://www.youtube.com/watch?v=QjIDIClw2rM",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
