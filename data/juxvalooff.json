@@ -1,0 +1,18 @@
+{
+    "id": 121586923,
+    "name": "Juxvalooff",
+    "author": "blooff",
+    "creators": ["zuva", "blooff", "Juxta"],
+    "verifier": "cheezysf",
+    "verification": "https://youtu.be/-lscypBa5JU",
+    "percentToQualify": "60",
+    "password": "Free to Copy",
+    "records": [
+        {
+            "user": "smjacob",
+            "link": "https://www.youtube.com/watch?v=68fVZHInu-8",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
+}
